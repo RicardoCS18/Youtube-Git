@@ -1,0 +1,92 @@
+*   commit f0558efd6fd74c7eeb2977243a4e17a82e9a85cf
+|\  Merge: 0009a5b 2287b3a
+| | Author: Richard Carrera <ricardog.carreras@gmail.com>
+| | Date:   Sun Oct 2 11:48:51 2022 -0500
+| | 
+| |     Resolviendo conflicto en estaciones del año y fechas de inicio
+| | 
+| * commit 2287b3a1a65bb16b45c6871593e3677b5cac7a3c
+| | Author: Richard Carrera <ricardog.carreras@gmail.com>
+| | Date:   Sun Oct 2 10:08:42 2022 -0500
+| | 
+| |     Agregando estaciones del año
+| | 
+* | commit 0009a5bfa25edc4da354118eb42c19d20536bd32
+|/  Author: Richard Carrera <ricardog.carreras@gmail.com>
+|   Date:   Sun Oct 2 10:08:42 2022 -0500
+|   
+|       Agregando estaciones del año con fecha de inicio
+|   
+*   commit 9ae4e9c3cc0163a6a7de1af2dfb2dba6871a3962
+|\  Merge: 62ffd26 eab23da
+| | Author: Richard Carrera <ricardog.carreras@gmail.com>
+| | Date:   Sun Oct 2 09:59:30 2022 -0500
+| | 
+| |     Resolviendo conflictos Merge en la rama main
+| | 
+| * commit eab23da83f24b3eef83d7af8305043866756b1be
+| | Author: Richard Carrera <ricardog.carreras@gmail.com>
+| | Date:   Sun Oct 2 09:49:28 2022 -0500
+| | 
+| |     Agregando index.js al index.html
+| | 
+* | commit 62ffd26c1104120a657ea6cdfb1d0b9ca5f095e0
+| | Author: Richard Carrera <ricardog.carreras@gmail.com>
+| | Date:   Sun Oct 2 09:46:39 2022 -0500
+| | 
+| |     Agregando style.css al index.html
+| |   
+* |   commit 83b52794efdd3eae794f3cb9cd9a2d16bb3800b1
+|\ \  Merge: ca0a760 5f4213a
+| | | Author: Richard Carrera <ricardog.carreras@gmail.com>
+| | | Date:   Thu Sep 29 21:25:58 2022 -0500
+| | | 
+| | |     Merge branch 'js'
+| | | 
+| * | commit 5f4213a8e6bdbd06aa5c08147fd058d1423a878d
+| | | Author: Richard Carrera <ricardog.carreras@gmail.com>
+| | | Date:   Thu Sep 29 20:55:50 2022 -0500
+| | | 
+| | |     Creando index.js
+| | | 
+* | | commit ca0a760b88f1ed6aa529f19414670ac30e08febe
+| |/  Author: Richard Carrera <ricardog.carreras@gmail.com>
+|/|   Date:   Thu Sep 29 20:52:59 2022 -0500
+| |   
+| |       Creando style.css
+| | 
+* | commit 9bf3f7d7c034562a55d09860365b8b8dc7c958ff
+|/  Author: Richard Carrera <ricardog.carreras@gmail.com>
+|   Date:   Thu Sep 29 20:43:07 2022 -0500
+|   
+|       Creando  index.html
+| 
+* commit 8d64c0836de73e04e31681e9fe858575535aaafb
+| Author: Richard Carrera <ricardog.carreras@gmail.com>
+| Date:   Wed Sep 28 22:53:28 2022 -0500
+| 
+|     IGnorando archivos .exe correcto
+| 
+* commit a96a3aea3e55d79447db70ad3c322524f1cb557e
+| Author: RicardoCS18 <107872918+RicardoCS18@users.noreply.github.com>
+| Date:   Tue Sep 27 23:31:33 2022 -0500
+| 
+|     Creando licencia del repositorio
+| 
+* commit a37b3a04893bb3ab890d7ac2c994ff771ec69bad
+| Author: Richard Carrera <ricardog.carreras@gmail.com>
+| Date:   Tue Sep 27 23:24:34 2022 -0500
+| 
+|     Agregando más contenido al README
+| 
+* commit 9185f22a607889802e3354dd2d5bb8bb03bc5d27
+| Author: Richard Carrera <ricardog.carreras@gmail.com>
+| Date:   Tue Sep 27 23:06:53 2022 -0500
+| 
+|     Agregando contenido inicial al README
+| 
+* commit a18ac3706fb6dc8eb21b97b451924e25d56a99c8
+  Author: Richard Carrera <ricardog.carreras@gmail.com>
+  Date:   Tue Sep 27 22:45:35 2022 -0500
+  
+      Primer commit
